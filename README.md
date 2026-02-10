@@ -31,6 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Prince15130/fm-blog-preview-card
+- Live Site URL:  https://prince15130.github.io/fm-blog-preview-card/
 
 ## My process
 
